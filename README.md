@@ -1,6 +1,4 @@
-# Nice to see you! <img src="https://cdn.discordapp.com/emojis/1099647559611449354.gif?size=96&quality=lossless" alt="img" style = "width: 35px;">
-
-nothing here.
+# I'm Haka, nice to see you! <img src="https://media.tenor.com/7lirhLLRJWAAAAAj/ai-hoshino-ai-dance.gif" alt="img" style = "width: 40px;">
 
 <div>
   <img src="https://count.getloli.com/get/@:hakauwu" alt=":hakauwu"/>
